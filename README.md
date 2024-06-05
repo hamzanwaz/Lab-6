@@ -1,1 +1,5 @@
-# Lab-6
+biscuit
+bottles
+cake
+juice
+layss
